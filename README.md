@@ -1,2 +1,2 @@
 # hoben.github.io
-hoben astrologist
+hoben.github.io
